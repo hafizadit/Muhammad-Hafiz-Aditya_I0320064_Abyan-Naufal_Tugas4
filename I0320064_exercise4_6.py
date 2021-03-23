@@ -1,5 +1,5 @@
 # String
-x = "He"
+x = "lo"
 y = "Hello World"
 
 # Check
