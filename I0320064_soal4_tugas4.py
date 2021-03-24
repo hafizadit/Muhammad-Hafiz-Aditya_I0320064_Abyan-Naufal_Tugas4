@@ -1,7 +1,7 @@
 # Header
 print("")
 print("="*50)
-end = "Program Seleksi Kursus"
+end = "Soal 4 : Program Seleksi Kursus"
 endCenter = end.center(50)
 print(endCenter)
 print("="*50)

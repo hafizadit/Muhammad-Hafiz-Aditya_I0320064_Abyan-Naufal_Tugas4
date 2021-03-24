@@ -1,7 +1,7 @@
 # Header
 print("")
 print("="*50)
-end = "Program Hitung Bagasi"
+end = "Soal 3 : Program Hitung Bagasi"
 endCenter = end.center(50)
 print(endCenter)
 print("="*50)
@@ -12,6 +12,7 @@ x = float(input("Berapakah Berat Bagasi (dalam Kg) :"))
 
 y = x <= 50
 
+print("")
 print(y)
 
 

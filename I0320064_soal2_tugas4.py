@@ -1,7 +1,7 @@
 # Header
 print("")
 print("="*50)
-end = "Program Hitung Floor"
+end = "Soal 2 : Program Hitung Floor"
 endCenter = end.center(50)
 print(endCenter)
 print("="*50)
@@ -16,7 +16,6 @@ hasil = x // y
 
 # Print
 print("\nHasil dari input bilangan anda adalah :",hasil)
-
 
 # Footer
 print("")
