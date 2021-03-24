@@ -10,7 +10,11 @@ print("")
 # Fungsi
 x = float(input("Berapakah Berat Bagasi (dalam Kg) :"))
 
-y = x <= 50
+lbs = x * 2.205
+
+print("\nBerat Bagasi dalam pound :", lbs,"lbs")
+
+y = lbs <= 50
 
 print("")
 print(y)
