@@ -10,23 +10,23 @@ print("")
 x = 4
 y = 11
 
-print("x =",x,"Dengan Binary :",format(x,"08b"))
-print("y =",y,"Dengan Binary :",format(y,"08b"))
+print("x =",x,"Dengan Binary :",format(x,"04b"))
+print("y =",y,"Dengan Binary :",format(y,"04b"))
 
 print("")
-print(x,"|",y,"adalah", x|y, ", Binary :",format(x|y,"08b"))
+print(x,"|",y,"adalah", x|y, ", Binary :",format(x|y,"04b"))
 
 print("")
-print(x,">>",y,"adalah", x>>y, ", Binary :",format(x>>y,"08b"))
+print(x,">>",y,"adalah", x>>y, ", Binary :",format(x>>y,"04b"))
 
 print("")
-print(x,"^",y,"adalah", x^y, ", Binary :",format(x^y,"08b"))
+print(x,"^",y,"adalah", x^y, ", Binary :",format(x^y,"04b"))
 
 print("")
-print("~",x,"adalah", ~x, ", Binary :",format(~x,"08b"))
+print("~",x,"adalah", ~x, ", Binary :",format(~x,"04b"))
 
 print("")
-print(y,"&",x,"adalah", y&x, ", Binary :",format(y&x,"08b"),"\n")
+print(y,"&",x,"adalah", y&x, ", Binary :",format(y&x,"04b"),"\n")
 
 # Footer
 print("="*50)
